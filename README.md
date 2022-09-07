@@ -5,3 +5,8 @@
 Token name : Star Collect Token
 Token symbol : SCT
 Contract Address : 0x7eD7576F870453831924c03dd0d02165Aba99d7C
+
+### Package Versions
+Truffle v5.0.2
+Openzeppelin-solidity 2.3.0
+
